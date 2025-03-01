@@ -1,0 +1,13 @@
+body{
+    background-image: url(pngtree-pink-watercolor-brushes-171474-png-image_1733978\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-attachment: scroll;
+}
+div{
+    background-color: aliceblue;
+    height: 650px;
+    width: 600px;
+    margin-left: 550px;
+    border: 2px solid dimgrey;
+}
